@@ -13,7 +13,7 @@ The purpose of analysing these trends  was so Louise can make a data-driven deci
 The first challenge in this analysis was doing quality control on the data and data cleaning. There was a lot of extra data that didn't relate to Louise's project so many of the categories were filtered out. During the data cleaning we split some columns into multiple columns so we could look at the differences between overall Theater campains and more specific Play campains. The unix timestamp had to be convereted into human readable date format, and that completed the data cleaning.
 ### Analysis of Outcomes Based on Launch Date
 The first analysis completed was analysis of outcome based on launch date of the campain. Please see Theater Outcomes based on Lauch Date image file for the graph our the findings. the most successful lauch date are in the month of May, however anywhere in the range of April through July also yeid successful results.
-
+![Theater_Outcomes_vs_Launch](C:\Users\klcol\Desktop\Analysis Folder\Excel Challenge\resources\Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The second analysis was of Success rate based on monetary goal of the campain. Please see outcomes and goals image file in the references folder. There is a 76% success rate for campains with under $1000 goals. As the goals increase the success rate slowly decreases. There is a significant dip in successful campains which ask for $20,000-$35,000. At $35,000 or greater there is a little jump in success rate, however once the goals reach $45,000 the success rate takes a deep dive again.
  
